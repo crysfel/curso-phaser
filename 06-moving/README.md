@@ -1,15 +1,15 @@
-Cargar imágenes
+Mover los personajes
 =====================
-Ya vimos como crear un estado, por el momento trabajaremos sobre este, más adelante agregaremos los otros dos estados y refactorizaremos nuestro código, esto nos permitirá tener una mejor comprensión del propósito de cada estado. En el tema de hoy veremos como cargar imágenes para desplegarlas dentro de nuestro juego.
+Ya vimos como hacer animaciones utilizando sprites, pero tanto los pájaros como el personaje principal están en el mismo lugar, en este tutorial vamos a ver como moverlos de posición.
 
-![Cargar imágenes con Phaser](https://s3.amazonaws.com/quizzpot/images/204-04-images.png)
+![Cargar imágenes con Phaser](https://s3.amazonaws.com/quizzpot/images/220-06-movimiento.png)
 
 
 ###Links
-1. [Video en youtube](http://www.youtube.com/watch?v=jztatxO8jDY)
-2. [Tutorial escrito](https://quizzpot.com/courses/videojuegos-en-html5/articles/animaciones-con-sprites)
-3. [Descarga el video](https://quizzpot.com/courses/videojuegos-en-html5/articles/animaciones-con-sprites)
-4. [Demo del tutorial](http://demos.bleext.com/quizzpot/phaser-course/05-sprites/)
+1. [Video en youtube](http://www.youtube.com/watch?v=qv-cgSxM-S8)
+2. [Tutorial escrito](https://quizzpot.com/courses/videojuegos-en-html5/articles/mover-los-personajes)
+3. [Descarga el video](https://quizzpot.com/courses/videojuegos-en-html5/articles/mover-los-personajes)
+4. [Demo del tutorial](http://demos.bleext.com/quizzpot/phaser-course/06-moving/)
 5. [Foro: deja tus dudas sobre Phaser](https://quizzpot.com/forum/questions)
 
 
